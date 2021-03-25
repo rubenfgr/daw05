@@ -1,6 +1,6 @@
 # DAW - Despliegue de aplicaciones web
 
-- **Alumno: ** rfgr87
+- **Alumno:** rfgr87
 
 ```php
 <?php
