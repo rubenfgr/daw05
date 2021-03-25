@@ -8,3 +8,4 @@
 - no muertos
 - orcos
 - elfos de la noche
+- goblins
